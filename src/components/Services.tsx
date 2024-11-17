@@ -43,7 +43,7 @@ export default function Services (){
 
                     <div className="box">
                     <h3>Advertising</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, impedit.</p>
+                    <p className="ser-desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, impedit.</p>
                     <button>ORDER NOW</button>
                     </div>
                 </div>

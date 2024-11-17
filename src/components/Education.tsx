@@ -6,7 +6,7 @@ export default function Education(){
             <div className="edu-text">
                 <h1>Education</h1>
                 <p>Trusted by Professional for Exceptional Quality and Services Our clients from various industries
-                    trust us to deliver top-notch quality and results.Here's what they have to say about our work...
+                    trust us to deliver top-notch quality and results.Here s what they have to say about our work...
                 </p>
             </div>
            
